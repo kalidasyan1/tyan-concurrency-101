@@ -1,5 +1,6 @@
 # Java Concurrency Guide
-ChatGPT: https://chatgpt.com/g/g-p-684257b10984819185d9933cf84944df-system-design/c/6859e620-81d4-800b-a0fb-d58820a85f85
+* ChatGPT: https://chatgpt.com/g/g-p-684257b10984819185d9933cf84944df-system-design/c/6859e620-81d4-800b-a0fb-d58820a85f85
+* [Java Concurrency Diagrams](src/main/resources/diagrams)
 
 ## Java Concurrency Best Practices and Performance Tuning
 * Minimize lock scope and hold time.
